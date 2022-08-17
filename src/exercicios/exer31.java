@@ -1,4 +1,4 @@
-package com.listas.ListasPOO.lista02;
+package exercicios;
 
 import java.util.Scanner;
 
